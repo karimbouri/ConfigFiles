@@ -1,0 +1,10 @@
+!
+! Title: Karim Personal Blocklist
+! Description: Blocks Windows/Office native broadband trackers that track your activity.
+! Version: 1.0.0.1
+! ======================================================================================
+! Last modified: 2025-07-03T20:09:03.829Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.35
+!
+||fusu.cc^
